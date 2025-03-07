@@ -2,6 +2,7 @@
 
 # 100 project ideas, inspiration:
 
+
 1. About me page.
 1. AI assistant using API.
 1. Article. Write an article.
@@ -38,6 +39,7 @@
 1. LeetCode (coding practice).
 1. Login system (authentication system).
 1. Manual or documentation.
+1. Microblog like Twitter, Bluesky (for yourself on localhost).
 1. Navigation menu.
 1. Notes app.
 1. Password generator.
@@ -85,7 +87,6 @@
 1. Website template.
 1. Website with a collection of something (music, movies, bookmarks, buttons, images etc).
 1. Writing reviews of books, films, or other.
-1. X (Twitter) (for yourself on localhost).
 
 ## Games:
 
