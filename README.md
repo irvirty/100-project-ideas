@@ -1,8 +1,7 @@
 <!-- Project ideas v.1.3.15 -->
 
-# 100 project ideas, inspiration:
-
-
+# 💡 100 project ideas, inspiration:
+  
 1. About me page.
 1. AI assistant using API.
 1. Article. Write an article.
@@ -129,7 +128,5 @@
 [Ideas](https://github.com/topics/ideas),
 [App ideas](https://github.com/topics/app-ideas),
 [100DaysOfCode](https://github.com/topics/100DaysOfCode)
-
-
 
 
