@@ -114,7 +114,7 @@
 ---
   
 > [!NOTE]
-> - This page was built using [GitHub](https://github.com/)  
+> This page was built using [GitHub](https://github.com/)  
   
 ---
   
