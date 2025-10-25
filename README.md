@@ -110,11 +110,5 @@
 1. Text-based adventure game.
 1. Tic-Tac-Toe.
 1. Typing test (WPM).
-   
-  
----
-  
-> [!NOTE]
-> This page was built using [GitHub](https://github.com/)  
 
 
