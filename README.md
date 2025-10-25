@@ -1,10 +1,11 @@
-<!-- Project ideas v.1.3.16 -->
+<!-- Project ideas v.1.3.17 -->
 
 # 100 project ideas, inspiration:
-  
+
 1. About me page.
 1. AI assistant using API.
 1. Article. Write an article.
+1. Avatar maker.
 1. Average number.
 1. Binary clock.
 1. Blog.
@@ -115,18 +116,5 @@
   
 > [!NOTE]
 > This page was built using [GitHub](https://github.com/)  
-  
----
-  
-### 🏷️ GitHub Explore, topics:  
-
-[Inspiration](https://github.com/topics/inspiration),
-[Project ideas](https://github.com/topics/project-ideas),
-[Projects](https://github.com/topics/projects),
-[Project](https://github.com/topics/project),
-[Project](https://github.com/topics/project),
-[Ideas](https://github.com/topics/ideas),
-[App ideas](https://github.com/topics/app-ideas),
-[100DaysOfCode](https://github.com/topics/100DaysOfCode)
 
 
