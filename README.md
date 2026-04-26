@@ -3,6 +3,7 @@
 # 100 project ideas, inspiration:
 
 1. About me page.
+1. Age calculator.
 1. AI assistant using API.
 1. Article. Write an article.
 1. Avatar maker.
