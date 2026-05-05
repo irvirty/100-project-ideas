@@ -1,6 +1,6 @@
 <!-- Project ideas v.1.3.17 -->
 
-# 100 project ideas, inspiration:
+# 💡 100 project ideas, inspiration:
 
 1. About me page.
 1. Age calculator.
